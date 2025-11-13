@@ -5,11 +5,11 @@ const path = require('path');
 const config = {
     token: 'YOUR_BOT_TOKEN_HERE',
     prefix: '-',
-    guildId: '1268098266319421463',
+    guildId: 'YOUR_SERVER_ID_HERE',
     modmailCategory: 'Call-Center',
     modmailStaffRole: 'Ticket Support',
     logChannel: 'transcripts',
-    adminUsers: ['1050844554250702859', '814983247120564234'],
+    adminUsers: ['USER_1', 'USER_2'],
     maxTicketsPerUser: 3,
     autoCloseInactiveAfter: 72,
     requireCategory: true,
